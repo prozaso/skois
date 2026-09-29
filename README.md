@@ -17,8 +17,3 @@ local basta con `python -m http.server` desde esta carpeta.
 
 La política de privacidad de cada app vive en su propia carpeta: Google Play
 pide una URL por aplicación.
-
-## Pendiente
-
-Sustituir el marcador del correo de contacto, que aparece en `index.html`,
-`launcher/index.html` y dos veces en `launcher/privacidad.html`.
