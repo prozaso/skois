@@ -5,6 +5,8 @@ Páginas públicas de las aplicaciones de SKOIS, servidas con GitHub Pages.
     /                          SKOIS y la lista de apps
     /launcher/                 SKOIS Launcher Minimalist
     /launcher/privacidad.html  su política de privacidad
+    /teclado/                  SKOIS: Minimalist Keyboard
+    /teclado/privacidad.html   su política de privacidad
     estilo.css                 hoja compartida por todas las páginas
 
 Sin generadores ni dependencias: son ficheros HTML sueltos. Para verlo en
